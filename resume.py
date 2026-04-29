@@ -2,7 +2,7 @@ import streamlit as st
 
 # ---------------------- 页面基础配置 ----------------------
 st.set_page_config(
-    page_title="个人简历 | 你的名字",
+    page_title="个人简历 | 润松阁",
     page_icon="📄",
     layout="wide",  # 宽屏更适合简历排版
     initial_sidebar_state="collapsed"
@@ -40,7 +40,7 @@ with col1:
     st.image("https://cdn-icons-png.flaticon.com/512/3135/3135715.png", width=150)
 
 with col2:
-    st.title("你的名字")
+    st.title("润松阁")
     st.subheader("求职意向：数据分析师 / Python 开发工程师")
     st.write("📞 电话：138-xxxx-1234")
     st.write("📧 邮箱：yourname@example.com")
