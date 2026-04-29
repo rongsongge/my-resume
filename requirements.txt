@@ -1,0 +1,3 @@
+streamlit
+# 如果用到了其他库，比如 pandas、numpy 也加上
+pandas
