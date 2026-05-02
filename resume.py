@@ -41,12 +41,12 @@ with col1:
 
 with col2:
     st.title("润松阁")
-    st.subheader("求职意向：数据分析师 / Python 开发工程师")
-    st.write("📞 电话：138-xxxx-1234")
-    st.write("📧 邮箱：yourname@example.com")
+    st.subheader("人生意向：活到老学到老，学无止境其乐无穷！")
+    st.write("📞 电话：131-xxxx-5571")
+    st.write("📧 邮箱：3045142985@qq.com")
     st.write("📍 现居地：广州 · 增城新塘")
-    st.write("🔗 GitHub：github.com/yourname")
-    st.write("🔗 个人博客：yourblog.com")
+    st.write("🔗 GitHub：github.com/rongsongge")
+    st.write("🔗 个人博客：50218782704001dd.com")
 
 st.divider()
 
@@ -88,8 +88,8 @@ st.divider()
 # ---------------------- 工作经历 ----------------------
 st.header("💼 工作经历")
 
-st.subheader("XX科技有限公司 | 数据分析师")
-st.write("📅 2022.07 - 至今 | 广州")
+st.subheader("新塘成校| 塘泽教育")
+st.write("📅 2000.03 - 至今 | 广州")
 st.markdown("""
 - 负责业务数据的日常监控与分析，搭建自动化日报/月报体系，每月节省 40+ 小时人工操作。
 - 使用 Streamlit 开发内部数据看板，实现销售数据、用户行为数据的实时可视化展示，提升团队决策效率。
