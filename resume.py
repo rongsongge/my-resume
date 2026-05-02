@@ -43,10 +43,10 @@ with col2:
     st.title("润松阁")
     st.subheader("人生意向：活到老学到老，学无止境其乐无穷！")
     st.write("📞 电话：131-xxxx-5571")
-    st.write("📧 邮箱：3045142985@qq.com")
+    st.write("📧 邮箱：123045142985@qq.com")
     st.write("📍 现居地：广州 · 增城新塘")
     st.write("🔗 GitHub：github.com/rongsongge")
-    st.write("🔗 个人博客：50218782704001dd.com")
+    st.write("🔗 个人博客：share.streamlit.io/50218782704001dd.com")
 
 st.divider()
 
@@ -101,8 +101,8 @@ st.divider()
 
 # ---------------------- 教育经历 ----------------------
 st.header("🎓 教育经历")
-st.subheader("XX大学 | 计算机科学与技术 | 本科")
-st.write("📅 2018.09 - 2022.06")
+st.subheader("安徽理工大学 | 计算机科学与技术 | 本科")
+st.write("📅 1986.09 - 1990.06")
 st.write("主修课程：Python 编程、数据库原理、数据结构、统计学、数据挖掘")
 
 st.divider()
