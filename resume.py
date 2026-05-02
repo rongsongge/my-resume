@@ -43,10 +43,11 @@ with col2:
     st.title("润松阁")
     st.subheader("人生意向：活到老学到老，学无止境其乐无穷！")
     st.write("📞 电话：131-xxxx-5571")
-    st.write("📧 邮箱：123045142985@qq.com")
+    st.write("📧 邮箱：13045142985@qq.com")
     st.write("📍 现居地：广州 · 增城新塘")
     st.write("🔗 GitHub：github.com/rongsongge")
-    st.write("🔗 个人博客：share.streamlit.io/50218782704001dd.com")
+    st.write("🔗 Https:share.streamlit.io/")
+    st.write("🔗 个人博客：50218782704001dd.com")
 
 st.divider()
 
