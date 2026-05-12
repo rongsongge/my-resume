@@ -136,3 +136,4 @@ st.markdown(
     </div>
     """, unsafe_allow_html=True
 )
+st.markdown("[👉 点击进入我的个人教学主页](https://tangzejiaoyu.streamlit.app)")
