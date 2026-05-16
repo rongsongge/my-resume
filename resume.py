@@ -37,7 +37,7 @@ col1, col2 = st.columns([1, 3])
 with col1:
     # 头像：可以放本地图片路径，或者直接用网络图片
     # 把下面路径换成你的头像图片路径，比如 "avatar.jpg"
-    st.image("https://cdn-icons-png.flaticon.com/512/3135/3135715.png", width=150)
+    st.image("rongsongge.png", width=150)
 
 with col2:
     st.title("润松阁")
@@ -47,17 +47,17 @@ with col2:
     st.write("📍 现居地：广州 · 增城新塘")
     st.write("🔗 GitHub：github.com/rongsongge")
     st.write("🔗 Https:share.streamlit.io/")
-    st.write("🔗 个人博客：50218782704001dd.com")
+    st.write("🔗 个人博客：50218782704x01xd.com")
 
 st.divider()
 
 # ---------------------- 个人简介 ----------------------
-st.header("👤 个人简介")
+st.header("👤 不忘历史")
 st.write("""
-- 拥有 X 年数据分析 / Python 开发经验，熟练使用 Pandas、Matplotlib、Streamlit 等工具进行数据处理与可视化。
-- 擅长自动化报表开发、数据看板搭建，可独立完成从需求分析到落地交付的全流程。
-- 熟悉 Excel 高级函数、MySQL 数据库基础操作，具备良好的业务理解能力与沟通能力。
-- 做事严谨、学习能力强，乐于接受新挑战，希望在数据相关岗位持续成长。
+- 生于1966年冬月，那时叫雷港公社合兴大队小埂生产队。
+- 父亲（1940年7月至2015年7月）小时候9岁随奶奶逃荒来到此地，老家在哪也不知了，父亲一生辛苦后十多年卧床不起。
+- 母亲（1947年8月至2025年12月）2岁时过寄到小爷家我们称外公，6岁生病吃错了药智慧停留在6至8岁状态，母亲一生善良简单。
+- 我有两个弟弟一个妹妹，大弟在老家，妹嫁在外县离老家较近，小弟在我身边。
 """)
 
 st.divider()
@@ -67,22 +67,22 @@ st.header("💡 技能清单")
 col1, col2, col3 = st.columns(3)
 
 with col1:
-    st.markdown("**技术工具**")
-    st.progress(90, text="Python / Pandas")
-    st.progress(85, text="Streamlit")
-    st.progress(80, text="SQL / MySQL")
+    st.markdown("**绘图技术工具**")
+    st.progress(90, text="CAD/ 3D")
+    st.progress(85, text="CDR/AI/PS")
+    st.progress(80, text="SW/PROE/PLAN")
 
 with col2:
-    st.markdown("**数据能力**")
-    st.progress(85, text="数据清洗与分析")
-    st.progress(80, text="数据可视化")
-    st.progress(75, text="自动化报表")
+    st.markdown("**机电技术**")
+    st.progress(85, text="机械设备管理")
+    st.progress(80, text="电工技术知识")
+    st.progress(75, text="自动化PLC技术")
 
 with col3:
     st.markdown("**办公工具**")
-    st.progress(95, text="Excel / WPS")
-    st.progress(80, text="PPT / 汇报")
-    st.progress(70, text="Git / 版本控制")
+    st.progress(95, text="WORD/EXCEL / WPS")
+    st.progress(80, text="PPT / 飞书")
+    st.progress(70, text="DW / 网页基础")
 
 st.divider()
 
@@ -92,10 +92,10 @@ st.header("💼 工作经历")
 st.subheader("新塘成校| 塘泽教育")
 st.write("📅 2000.03 - 至今 | 广州")
 st.markdown("""
-- 负责业务数据的日常监控与分析，搭建自动化日报/月报体系，每月节省 40+ 小时人工操作。
-- 使用 Streamlit 开发内部数据看板，实现销售数据、用户行为数据的实时可视化展示，提升团队决策效率。
-- 对接业务部门需求，输出数据报告与分析结论，支撑业务优化与运营策略调整。
-- 负责数据清洗与治理工作，规范数据口径，提升数据准确性与可用性。
+- 开始时期教过成人大专课程，也教过成人基础英语。
+- 教过十多年电工考证班。
+- 教过十年技校模具班课程，七年技校电梯班课程。
+- 教的最长时间的是电脑培训方面的课程，差不多有二十多年。
 """)
 
 st.divider()
@@ -104,25 +104,25 @@ st.divider()
 st.header("🎓 教育经历")
 st.subheader("安徽理工大学 | 计算机科学与技术 | 本科")
 st.write("📅 1986.09 - 1990.06")
-st.write("主修课程：Python 编程、数据库原理、数据结构、统计学、数据挖掘")
+st.write("主修课程：机电一体化、机械原理、材料力学、机电工程等")
 
 st.divider()
 
 # ---------------------- 项目经历 ----------------------
 st.header("🚀 项目经历")
 
-st.subheader("1. 自动化数据分析报表系统")
-st.write("**技术栈：Python + Pandas + Streamlit**")
+st.subheader("主要工作情况")
+st.write("**机电技术**")
 st.markdown("""
-- 开发了一套可在线使用的数据分析工具，支持上传 Excel/CSV 文件，自动完成数据清洗、分析与可视化。
-- 内置常用图表模板，一键生成业务分析报告，可直接导出为图片或 PDF。
-- 已在团队内部推广使用，显著提升了同事们的数据分析效率。
+- 90年参加工作至95年，粤北坪石，机械厂、水泥厂、供电所。
+- 96年至99年铁路有限公司、仙村水泥厂。
+- 此后从事教育方面工作。
 """)
 
 st.subheader("2. 个人简历网站（本项目）")
-st.write("**技术栈：Python + Streamlit**")
+st.write("**开始学习作网页**")
 st.markdown("""
-- 纯 Python 开发的在线简历网站，无需前端代码即可快速搭建和更新。
+- 纯 Python 制作在线简历网站，无需前端代码即可快速搭建和更新。
 - 支持自定义主题样式，可轻松修改为个人专属风格。
 """)
 
@@ -132,7 +132,7 @@ st.divider()
 st.markdown(
     """
     <div style="text-align: center; color: #888;">
-    ✨ 感谢您查看我的简历，期待与您进一步沟通！
+    ✨ 感谢您查看我的简介，让网络世界......！
     </div>
     """, unsafe_allow_html=True
 )
