@@ -146,3 +146,4 @@ st.markdown(
 )
 st.markdown("[👉 点击进入我的个人教学主页](https://tangzediannao.streamlit.app)")
 st.markdown("[👉 点击进入我的个人作品一主页](https://rongsongge.github.io/fruitshop/)")
+st.markdown("[👉 点击进入我的个人作品二主页](https://rongsongge.github.io/teashop/)")
