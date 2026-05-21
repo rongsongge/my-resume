@@ -128,7 +128,7 @@ st.markdown("""
 - 此后从事教育培训方面工作。
 """)
 
-st.subheader("2. 个人简历网站（本项目）")
+st.subheader("个人简历网站（本项目）")
 st.write("**开始学习制作网页**")
 st.markdown("""
 - 纯 Python 制作在线简历网站，无需前端代码即可快速搭建和更新。
