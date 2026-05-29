@@ -69,6 +69,7 @@ st.write("""
 - 2014年底直接进了以前同事的陈老师创办塘泽教育公司上班当一名培训老师一直至今。
 - 人生象是选择又象是天意，后知后觉的我，从身边的人和事，从过去的经历，去感知去了解去感恩。无常的人生，好好活着健康地活着就是幸福。
 """)
+st.image("moqin.jpg", use_container_width=True)
 
 st.divider()
 
@@ -107,7 +108,7 @@ st.markdown("""
 - 教过十年技校模具班课程，七年技校电梯班课程。
 - 教的最长时间的是电脑培训方面的课程，差不多有二十多年。
 """)
-
+st.image("xuesheng.jpg", use_container_width=True)
 st.divider()
 
 # ---------------------- 教育经历 ----------------------
@@ -115,6 +116,7 @@ st.header("🎓 教育经历")
 st.subheader("安徽理工大学 | 原矿业学院 | 本科")
 st.write("📅 1986.09 - 1990.06")
 st.write("主修课程：机电一体化、机械原理、材料力学、机电工程等")
+st.image("huailan.jpg", use_container_width=True)
 
 st.divider()
 
