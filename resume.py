@@ -94,6 +94,7 @@ with col3:
     st.progress(95, text="WORD/EXCEL / ppt")
     st.progress(80, text="AI/ 飞书")
     st.progress(70, text="HTML/ 网页基础")
+st.image("tanze.jpg", use_container_width=True)
 
 st.divider()
 
@@ -108,6 +109,7 @@ st.markdown("""
 - 教过十年技校模具班课程，七年技校电梯班课程。
 - 教的最长时间的是电脑培训方面的课程，差不多有二十多年。
 """)
+st.image("cenxiao.jpg", use_container_width=True)
 st.image("xuesheng.jpg", use_container_width=True)
 st.divider()
 
@@ -121,7 +123,7 @@ st.image("huailan.jpg", use_container_width=True)
 st.divider()
 
 # ---------------------- 项目经历 ----------------------
-st.header("🚀 项目经历")
+st.header("🚀 早些时候经历")
 
 st.subheader("主要工作情况")
 st.write("**机电技术**")
@@ -130,7 +132,8 @@ st.markdown("""
 - 96年至99年地方铁路有限公司、仙村水泥厂。
 - 此后从事教育培训方面工作。
 """)
-
+st.image("pinsi1.jpg", use_container_width=True)
+st.image("pinsi2.jpg", use_container_width=True)
 st.subheader("个人简历网站（本项目）")
 st.write("**开始学习制作网页**")
 st.markdown("""
