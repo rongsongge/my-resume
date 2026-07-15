@@ -48,6 +48,7 @@ with col2:
     st.write("🔗 GitHub：github.com/rongsongge")
     st.write("🔗 Https:share.streamlit.io/")
     st.write("🔗 个人博客：50218782704x01xd.com")
+    st.markdown("[👉 点击进入我的个人教学简历](https://rongsonggejianli.streamlit.app/)")
     st.markdown("[👉 点击进入我的个人博客主页](https://rongsonggeblog.streamlit.app/)")
 
 st.divider()
